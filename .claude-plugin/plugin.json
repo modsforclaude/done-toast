@@ -2,8 +2,16 @@
   "name": "done-toast",
   "version": "0.1.0",
   "description": "Shows a toast with the duration and number of tool calls when a turn took a long time.",
-  "author": { "name": "modsforClaude.com", "url": "https://modsforclaude.com" },
+  "author": {
+    "name": "modsforClaude.com",
+    "url": "https://modsforclaude.com"
+  },
   "license": "MIT",
+  "homepage": "https://modsforclaude.com/mods/done-toast/",
+  "repository": "https://github.com/modsforclaude/done-toast",
+  "documentationUrl": "https://github.com/modsforclaude/done-toast#readme",
+  "supportUrl": "https://github.com/modsforclaude/done-toast/issues",
+  "privacyPolicyUrl": "https://github.com/modsforclaude/done-toast#privacy",
   "userConfig": {
     "thresholdSeconds": {
       "type": "number",

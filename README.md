@@ -26,6 +26,12 @@ No network calls, no dependencies, nothing written to disk, nothing stored.
 
 The toast is shown inside Claude Code. It is not an operating system notification, so you will not see it while another window is in front.
 
+## Privacy
+
+This mod collects no data. It sends nothing over the network, has no telemetry and writes nothing to disk. What it reads, listed under "What it can see", stays inside your Claude Code session and is gone when the session ends.
+
+Questions or problems: open an issue on GitHub.
+
 ## Loading it
 
 Mods are an early-access Claude Code feature and need a recent version (built and tested on 2.1.286).
