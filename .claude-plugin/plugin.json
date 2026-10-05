@@ -1,0 +1,15 @@
+{
+  "name": "done-toast",
+  "version": "0.1.0",
+  "description": "Shows a toast with the duration and number of tool calls when a turn took a long time.",
+  "author": { "name": "modsforClaude.com", "url": "https://modsforclaude.com" },
+  "license": "MIT",
+  "userConfig": {
+    "thresholdSeconds": {
+      "type": "number",
+      "title": "Threshold (seconds)",
+      "description": "Show the toast when a turn took at least this many seconds.",
+      "default": 60
+    }
+  }
+}
